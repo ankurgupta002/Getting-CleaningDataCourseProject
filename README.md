@@ -15,7 +15,5 @@
 ##Uses descriptive activity names to name the activities in the data set
 ##Read descriptive activity names from “activity_labels.txt”
 ##factorize Variale activity in the data frame Data using descriptive activity names
-##check
 ##Appropriately labels the data set with descriptive variable names
 ##Creates a second,independent tidy data set and ouput it
-###Prouduce Codebook
